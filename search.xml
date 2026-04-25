@@ -4,6 +4,50 @@
   
     
     <entry>
+      <title>毕业设计</title>
+      <link href="/2026/04/24/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/"/>
+      <url>/2026/04/24/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/</url>
+      
+        <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>感谢导师给我选了一个很好的题目，一拍即合！我自己一直想做一款游戏Demo出来，毕竟之前学了那么久unity代码，结果最后跑去学特效了。但从目前的视角来看，学了特效后反而给我提供了很多思路，在如何美化以及优化游戏上有了很大理解。</p><p>这次毕设还要添加一些AR相关的内容，用于展示学校的一些标志性建筑。游戏得同时兼容手机端，之前没有手机端游戏的开发经验，希望这次别出什么岔子😭。尝试了一下AI建模，模型整体上看上去还好，但是如果要进一步纠察细节就不行了，不够用于AR展示足够了。</p><p>系统的功能其实不是很复杂，实现起来应该挺快。而且现在有AI的加持，开发效率上能提升一大截。我觉得在大AI时代下，重要的还是<strong>想法和人的主观能动性</strong>，拥有主动去做某件事的激情和动力，同时保持对新技术的学习。</p><h2 id="头脑风暴"><a href="#头脑风暴" class="headerlink" title="头脑风暴"></a>头脑风暴</h2><p>我想做的游戏主题和毕业季相关，参考了很多《Yell》中的歌词。<br>剧情大纲大概是：虽然再见是我们不得不面对的课题，学生时代一去不返，这中间会有遗憾、懊悔、悲伤和迷茫，但我想要传播出一种力量，能够让我们勇敢前进，独自飞向未来的天空！虽然有不舍分离，但是我们在不断前行的道路上也一定会遇到很多美好的人或事，这一段宝贵的学生时代会成为我们成长的养分，铸就我们的翅膀更加壮大，飞向不同道路，实现各自的梦想。<strong>校园回忆永远不会结束</strong>！（每个时间段的自己都是独一无二的存在，愿我们都带有学生时代的激情、勇敢和初心，寻找到一条属于自己的道路，<strong>勇敢生活</strong>）。</p><p>结尾CG大概是这样：主角穿着毕业服，双手捧着鲜花，背后有一个黑板，上面写着毕业快乐，然后黑板上画有一对翅膀（代表着希望和憧憬）。</p><img src="https://cdn.jsdelivr.net/gh/KiraraCanary/markdown_pic@main/2026/4/20260425101400323.png" alt="image-20260425101351183" style="zoom:67%;" /><p>至于游戏美术资源，大多数都是网上找的，所以这个项目最后只用<strong>个人学习和展示</strong>，同时当做毕设项目。</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 作品集 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>游戏特效作品集</title>
+      <link href="/2026/04/24/%E6%B8%B8%E6%88%8F%E7%89%B9%E6%95%88%E4%BD%9C%E5%93%81%E9%9B%86/"/>
+      <url>/2026/04/24/%E6%B8%B8%E6%88%8F%E7%89%B9%E6%95%88%E4%BD%9C%E5%93%81%E9%9B%86/</url>
+      
+        <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>由于要做毕设，作品集准备的不是很充分😭😭，但是总算憋出来一版了。有很多地方都做的不好，属于是眼高手低了，只能说持续学习吧！很可惜，还有很多想法都没有实现。不过这次学到了很多东西，也给了我足够的信心进步下去。</p><p>在画画上面，也没有找到自己画设计稿的方式，导致设计稿出的很慢，效果也不是很好，最后也没有优化好。但毕竟这是第一次，也是尽全力了，希望能找到能够接受的工作吧💖💖💖。</p><p>作品集链接：<a href="https://www.bilibili.com/video/BV1KnojBAE7o">https://www.bilibili.com/video/BV1KnojBAE7o</a></p><h2 id="后续"><a href="#后续" class="headerlink" title="后续"></a>后续</h2><p>之后打算在做两个比较完整的设计，并尝试实现出来。吸取了第一版设计稿的教训，这次不在搞大新闻了😭😭。个人感觉这两个做出来还蛮有意思的，先放下两版设计的头脑风暴：</p><p>1.夏日派对：想做那种夏日度假的感觉，同时可以尝试点可爱元素，比如设计一下小猫咪之类的。</p><img src="https://cdn.jsdelivr.net/gh/KiraraCanary/markdown_pic@main/2026/4/20260424234756182.png" alt="image-20260424234746902" style="zoom:67%;" /><p>2.爱丽丝梦游仙境：爱丽丝好耶！我觉得爱丽丝里面有很多元素都很有趣，用来做设计正好，正好也是我一直想做的东西。想试试看原创特效能做到什么地步，正好也试试空间斩和龙卷风的制作。</p><img src="https://cdn.jsdelivr.net/gh/KiraraCanary/markdown_pic@main/2026/4/20260424235357267.png" alt="image-20260424235354887" style="zoom:67%;" />]]></content>
+      
+      
+      <categories>
+          
+          <category> 特效作品集 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 作品集 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>《被讨厌的勇气》读书笔记</title>
       <link href="/2026/01/12/%E3%80%8A%E8%A2%AB%E8%AE%A8%E5%8E%8C%E7%9A%84%E5%8B%87%E6%B0%94%E3%80%8B%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
       <url>/2026/01/12/%E3%80%8A%E8%A2%AB%E8%AE%A8%E5%8E%8C%E7%9A%84%E5%8B%87%E6%B0%94%E3%80%8B%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</url>
@@ -58,7 +102,7 @@
       <link href="/2025/12/23/%E7%94%BB%E7%94%BB%E5%AD%A6%E4%B9%A0%E5%BF%83%E5%BE%97/"/>
       <url>/2025/12/23/%E7%94%BB%E7%94%BB%E5%AD%A6%E4%B9%A0%E5%BF%83%E5%BE%97/</url>
       
-        <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>先埋个坑，记录一下博主学习绘画的心路历程。<br>Q：“为什么要画画？” A：“因为这样可以使我幸福。”</p>]]></content>
+        <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>先埋个坑，记录一下博主学习绘画的心路历程。</p>]]></content>
       
       
       <categories>
